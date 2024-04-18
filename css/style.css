@@ -35,3 +35,22 @@ footer{
 .card p{
     text-align: justify;
 }
+.sec-contato{
+    margin-bottom: 10% !important;
+    margin-left: 10% !important;
+    margin-right: 10% !important;
+}
+.sec-contato button{
+    background-color: orange;
+}
+.sec-mapa-da-região{
+margin: 0 !important;
+padding: 0 !important;
+box-sizing: border-box !important;
+}
+.mapBox{
+    position: relative !important;
+    width: 300px !important;
+    height: 250px !important;
+    background: #eee8e8;
+}
