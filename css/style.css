@@ -43,14 +43,11 @@ footer{
 .sec-contato button{
     background-color: orange;
 }
-.sec-mapa-da-região{
-margin: 0 !important;
-padding: 0 !important;
-box-sizing: border-box !important;
+.mapa{
+    margin: 5% !important;
 }
-.mapBox{
-    position: relative !important;
-    width: 300px !important;
-    height: 250px !important;
-    background: #eee8e8;
+.links{
+    text-align: center !important;
+    padding: 1em !important;
+    color: rgb(0, 0, 0);
 }
